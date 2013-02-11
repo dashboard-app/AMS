@@ -4,6 +4,7 @@
 //setcookie("last_page", "", time()+3600, '/');
 //test
 // testing github
+//commit changes
 session_start();
 
 include("passwords.php");
